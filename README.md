@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @furkankufrevi
-- 👀 I’m interested in web, android development.
+- 👀 I’m interested in web, android and game development.
 - 🌱 I’m currently learning flutter, javascript and laravel.
 - 💞️ I’m looking to collaborate on biomedical applications.
 - 📫 How to reach me furkankufrevi@gmail.com
