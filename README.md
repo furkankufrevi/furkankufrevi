@@ -6,10 +6,10 @@ I’m passionate about creating clean, efficient, and maintainable code that bri
 ---
 
 ### 🧠 Tech Stack
-- **Backend:** Laravel, RESTful APIs, Webhooks, Queues, Redis  
-- **Frontend:** JavaScript, jQuery, React, Bootstrap  
-- **Database:** MySQL / SQL  
-- **Others:** API Integrations, Performance Optimization
+- **Backend:** Laravel, RESTful APIs, Webhooks, Queues, Redis, Next.js
+- **Frontend:** JavaScript, jQuery, React, Typescript, Bootstrap  
+- **Database:** MySQL / SQL, PostgreSQL, SQLite  
+- **Others:** API Integrations, Performance Optimization, AWS, AI Integrations
 
 ---
 
