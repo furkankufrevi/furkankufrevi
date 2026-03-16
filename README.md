@@ -22,7 +22,7 @@ I’m passionate about creating clean, efficient, and maintainable code that bri
 
 ### 📫 Let’s Connect!
 Feel free to reach out or collaborate on exciting projects.  
-🌐 https://pinkontin.com.tr  
+🌐 https://pinkontin.com 
 💼 https://www.linkedin.com/in/furkankufrevi
 
 ---
