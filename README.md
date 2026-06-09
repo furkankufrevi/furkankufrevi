@@ -1,30 +1,11 @@
-# 👋 Hi there, I'm Furkan!
+### Furkan Küfrevi
 
-💻 **Full-stack Developer** with over **5 years of experience** building robust and scalable web applications using **Laravel**.  
-I’m passionate about creating clean, efficient, and maintainable code that brings ideas to life.
+Freelance full-stack developer and designer based in Turkey. I build web products end to end — Laravel on the backend, Next.js on the front. Five years in, mostly working with founders and small teams.
 
----
+Currently running [Pinkontin](https://pinkontin.com), a brand and web design studio.
 
-### 🧠 Tech Stack
-- **Backend:** Laravel, RESTful APIs, Webhooks, Queues, Redis, Next.js
-- **Frontend:** JavaScript, jQuery, React, Typescript, Bootstrap  
-- **Database:** MySQL / SQL, PostgreSQL, SQLite  
-- **Others:** API Integrations, Performance Optimization, AWS, AI Integrations
+**Working with**
+Laravel · Next.js · React · TypeScript · PostgreSQL · Redis · AWS
 
----
-
-### 🌱 About Me
-- 🖋 Coding makes me truly happy — it’s more than a job, it’s a passion.  
-- 🤝 I’m open to **open-source collaborations** and love contributing to the developer community.  
-- 🚀 Always eager to learn new technologies and improve my craft.
-
----
-
-### 📫 Let’s Connect!
-Feel free to reach out or collaborate on exciting projects.  
-🌐 https://pinkontin.com 
-💼 https://www.linkedin.com/in/furkankufrevi
-
----
-
-⭐️ *“Code is like poetry — every line should have meaning.”*
+**Reach me**
+[pinkontin.com](https://pinkontin.com) · [LinkedIn](https://www.linkedin.com/in/furkankufrevi)
