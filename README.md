@@ -1,6 +1,6 @@
 ### Furkan Küfrevi
 
-Freelance full-stack developer and designer based in Turkey, with over five years of experience building web applications and digital products. I work mostly with founders, agencies, and small teams who need both engineering and design from the same person.
+Full-stack developer and designer, with over seven years of experience building web applications and digital products. I work mostly with founders, agencies, and small teams who need both engineering and design from the same person.
 
 My main focus is Laravel on the backend and Next.js on the front. Day to day I move between database schemas, API design, queue and webhook work, React components, and final UI polish. Most projects I take on are SaaS dashboards, internal tools, e-commerce builds, and brand-driven marketing sites.
 
